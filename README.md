@@ -210,3 +210,7 @@ order by name desc, id asc
   ]
 }
 ```
+
+Примеры запросов приведены в `examples` swagger  
+![image](https://github.com/user-attachments/assets/850ff69f-73cd-42e0-a14d-443e909f0a38)
+
